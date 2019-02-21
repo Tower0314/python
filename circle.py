@@ -1,0 +1,11 @@
+import turtle
+turtle.color('green')
+turtle.pensize(20)
+turtle.fd(50)
+turtle.right(30)
+turtle.fd(100)
+turtle.left(30)
+turtle.circle(50,180)
+turtle.left(30)
+turtle.fd(100)
+input()
